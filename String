@@ -1,0 +1,13 @@
+class String{
+public static String reverse(String str){
+if(str.isEmpty()){
+return str;
+}else{
+return reverse (str.SubString(int))+str.charAt(int);
+}
+}
+public static void main(String[] args){
+String S="hello";
+System.out.println("Reversed String:" +reverse(s));
+}
+}
