@@ -1,5 +1,5 @@
 import java.util.*;
-class MinHeapExample{
+class Main{
     public static void main(String[] args){
         PriorityQueue<Integer>minHeap=new PriorityQueue<>();
         minHeap.add(10);
